@@ -11264,13 +11264,13 @@ const philippineRegions = const [
   ),
   Region(
     id: "4A",
-    regionName: "REGION IV-A",
+    regionName: "CALABARZON",
     provinces: [
       Province(
         id: "BATANGAS",
         name: "BATANGAS",
         regionId: "4A",
-        regionName: "REGION IV-A",
+        regionName: "CALABARZON",
         municipalities: [
           Municipality(
             id: "AGONCILLO",
@@ -12594,7 +12594,7 @@ const philippineRegions = const [
         id: "CAVITE",
         name: "CAVITE",
         regionId: "4A",
-        regionName: "REGION IV-A",
+        regionName: "CALABARZON",
         municipalities: [
           Municipality(
             id: "ALFONSO",
@@ -13592,7 +13592,7 @@ const philippineRegions = const [
         id: "LAGUNA",
         name: "LAGUNA",
         regionId: "4A",
-        regionName: "REGION IV-A",
+        regionName: "CALABARZON",
         municipalities: [
           Municipality(
             id: "ALAMINOS",
@@ -14491,7 +14491,7 @@ const philippineRegions = const [
         id: "QUEZON",
         name: "QUEZON",
         regionId: "4A",
-        regionName: "REGION IV-A",
+        regionName: "CALABARZON",
         municipalities: [
           Municipality(
             id: "AGDANGAN",
@@ -16028,7 +16028,7 @@ const philippineRegions = const [
         id: "RIZAL",
         name: "RIZAL",
         regionId: "4A",
-        regionName: "REGION IV-A",
+        regionName: "CALABARZON",
         municipalities: [
           Municipality(
             id: "ANGONO",
