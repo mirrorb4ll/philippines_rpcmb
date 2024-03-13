@@ -39495,7 +39495,7 @@ const philippineRegions = const [
   ),
   Region(
     id: "10",
-    regionName: "REGION X",
+    regionName: "NORTHERN MINDANAO",
     provinces: [
       Province(
         id: "BUKIDNON",
