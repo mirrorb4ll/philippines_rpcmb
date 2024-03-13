@@ -2,13 +2,13 @@ import '../src.dart';
 const philippineRegions = const [
   Region(
     id: "01",
-    regionName: "REGION I",
+    regionName: "ILOCOS REGION",
     provinces: [
       Province(
         id: "ILOCOS NORTE",
         name: "ILOCOS NORTE",
         regionId: "01",
-        regionName: "REGION I",
+        regionName: "ILOCOS REGION",
         municipalities: [
           Municipality(
             id: "ADAMS",
@@ -736,7 +736,7 @@ const philippineRegions = const [
         id: "ILOCOS SUR",
         name: "ILOCOS SUR",
         regionId: "01",
-        regionName: "REGION I",
+        regionName: "ILOCOS REGION",
         municipalities: [
           Municipality(
             id: "ALILEM",
@@ -1750,7 +1750,7 @@ const philippineRegions = const [
         id: "LA UNION",
         name: "LA UNION",
         regionId: "01",
-        regionName: "REGION I",
+        regionName: "ILOCOS REGION",
         municipalities: [
           Municipality(
             id: "AGOO",
@@ -2474,7 +2474,7 @@ const philippineRegions = const [
         id: "PANGASINAN",
         name: "PANGASINAN",
         regionId: "01",
-        regionName: "REGION I",
+        regionName: "ILOCOS REGION",
         municipalities: [
           Municipality(
             id: "AGNO",
@@ -4182,13 +4182,13 @@ const philippineRegions = const [
   ),
   Region(
     id: "02",
-    regionName: "REGION II",
+    regionName: "CAGAYAN VALLEY",
     provinces: [
       Province(
         id: "BATANES",
         name: "BATANES",
         regionId: "02",
-        regionName: "REGION II",
+        regionName: "CAGAYAN VALLEY",
         municipalities: [
           Municipality(
             id: "BASCO",
@@ -4267,7 +4267,7 @@ const philippineRegions = const [
         id: "CAGAYAN",
         name: "CAGAYAN",
         regionId: "02",
-        regionName: "REGION II",
+        regionName: "CAGAYAN VALLEY",
         municipalities: [
           Municipality(
             id: "ABULUG",
@@ -5298,7 +5298,7 @@ const philippineRegions = const [
         id: "ISABELA",
         name: "ISABELA",
         regionId: "02",
-        regionName: "REGION II",
+        regionName: "CAGAYAN VALLEY",
         municipalities: [
           Municipality(
             id: "ALICIA",
@@ -6620,7 +6620,7 @@ const philippineRegions = const [
         id: "NUEVA VIZCAYA",
         name: "NUEVA VIZCAYA",
         regionId: "02",
-        regionName: "REGION II",
+        regionName: "CAGAYAN VALLEY",
         municipalities: [
           Municipality(
             id: "ALFONSO CASTANEDA",
@@ -7008,7 +7008,7 @@ const philippineRegions = const [
         id: "QUIRINO",
         name: "QUIRINO",
         regionId: "02",
-        regionName: "REGION II",
+        regionName: "CAGAYAN VALLEY",
         municipalities: [
           Municipality(
             id: "AGLIPAY",
@@ -7190,13 +7190,13 @@ const philippineRegions = const [
   ),
   Region(
     id: "03",
-    regionName: "REGION III",
+    regionName: "CENTRAL LUZON",
     provinces: [
       Province(
         id: "AURORA",
         name: "AURORA",
         regionId: "03",
-        regionName: "REGION III",
+        regionName: "CENTRAL LUZON",
         municipalities: [
           Municipality(
             id: "BALER",
@@ -7411,7 +7411,7 @@ const philippineRegions = const [
         id: "BATAAN",
         name: "BATAAN",
         regionId: "03",
-        regionName: "REGION III",
+        regionName: "CENTRAL LUZON",
         municipalities: [
           Municipality(
             id: "ABUCAY",
@@ -7740,7 +7740,7 @@ const philippineRegions = const [
         id: "BULACAN",
         name: "BULACAN",
         regionId: "03",
-        regionName: "REGION III",
+        regionName: "CENTRAL LUZON",
         municipalities: [
           Municipality(
             id: "ANGAT",
@@ -8485,7 +8485,7 @@ const philippineRegions = const [
         id: "NUEVA ECIJA",
         name: "NUEVA ECIJA",
         regionId: "03",
-        regionName: "REGION III",
+        regionName: "CENTRAL LUZON",
         municipalities: [
           Municipality(
             id: "ALIAGA",
@@ -9566,7 +9566,7 @@ const philippineRegions = const [
         id: "PAMPANGA",
         name: "PAMPANGA",
         regionId: "03",
-        regionName: "REGION III",
+        regionName: "CENTRAL LUZON",
         municipalities: [
           Municipality(
             id: "ANGELES CITY",
@@ -10266,7 +10266,7 @@ const philippineRegions = const [
         id: "TARLAC",
         name: "TARLAC",
         regionId: "03",
-        regionName: "REGION III",
+        regionName: "CENTRAL LUZON",
         municipalities: [
           Municipality(
             id: "ANAO",
@@ -10911,7 +10911,7 @@ const philippineRegions = const [
         id: "ZAMBALES",
         name: "ZAMBALES",
         regionId: "03",
-        regionName: "REGION III",
+        regionName: "CENTRAL LUZON",
         municipalities: [
           Municipality(
             id: "BOTOLAN",
@@ -16323,13 +16323,13 @@ const philippineRegions = const [
   ),
   Region(
     id: "4B",
-    regionName: "REGION IV-B",
+    regionName: "MIMAROPA",
     provinces: [
       Province(
         id: "MARINDUQUE",
         name: "MARINDUQUE",
         regionId: "4B",
-        regionName: "REGION IV-B",
+        regionName: "MIMAROPA",
         municipalities: [
           Municipality(
             id: "BOAC",
@@ -16597,7 +16597,7 @@ const philippineRegions = const [
         id: "OCCIDENTAL MINDORO",
         name: "OCCIDENTAL MINDORO",
         regionId: "4B",
-        regionName: "REGION IV-B",
+        regionName: "MIMAROPA",
         municipalities: [
           Municipality(
             id: "ABRA DE ILOG",
@@ -16846,7 +16846,7 @@ const philippineRegions = const [
         id: "ORIENTAL MINDORO",
         name: "ORIENTAL MINDORO",
         regionId: "4B",
-        regionName: "REGION IV-B",
+        regionName: "MIMAROPA",
         municipalities: [
           Municipality(
             id: "BACO",
@@ -17385,7 +17385,7 @@ const philippineRegions = const [
         id: "PALAWAN",
         name: "PALAWAN",
         regionId: "4B",
-        regionName: "REGION IV-B",
+        regionName: "MIMAROPA",
         municipalities: [
           Municipality(
             id: "ABORLAN",
@@ -17994,7 +17994,7 @@ const philippineRegions = const [
         id: "ROMBLON",
         name: "ROMBLON",
         regionId: "4B",
-        regionName: "REGION IV-B",
+        regionName: "MIMAROPA",
         municipalities: [
           Municipality(
             id: "ALCANTARA",
@@ -18340,13 +18340,13 @@ const philippineRegions = const [
   ),
   Region(
     id: "05",
-    regionName: "REGION V",
+    regionName: "BICOL REGION",
     provinces: [
       Province(
         id: "ALBAY",
         name: "ALBAY",
         regionId: "05",
-        regionName: "REGION V",
+        regionName: "BICOL REGION",
         municipalities: [
           Municipality(
             id: "BACACAY",
@@ -19200,7 +19200,7 @@ const philippineRegions = const [
         id: "CAMARINES NORTE",
         name: "CAMARINES NORTE",
         regionId: "05",
-        regionName: "REGION V",
+        regionName: "BICOL REGION",
         municipalities: [
           Municipality(
             id: "BASUD",
@@ -19574,7 +19574,7 @@ const philippineRegions = const [
         id: "CAMARINES SUR",
         name: "CAMARINES SUR",
         regionId: "05",
-        regionName: "REGION V",
+        regionName: "BICOL REGION",
         municipalities: [
           Municipality(
             id: "BAAO",
@@ -20904,7 +20904,7 @@ const philippineRegions = const [
         id: "CATANDUANES",
         name: "CATANDUANES",
         regionId: "05",
-        regionName: "REGION V",
+        regionName: "BICOL REGION",
         municipalities: [
           Municipality(
             id: "BAGAMANOC",
@@ -21304,7 +21304,7 @@ const philippineRegions = const [
         id: "MASBATE",
         name: "MASBATE",
         regionId: "05",
-        regionName: "REGION V",
+        regionName: "BICOL REGION",
         municipalities: [
           Municipality(
             id: "AROROY",
@@ -22009,7 +22009,7 @@ const philippineRegions = const [
         id: "SORSOGON",
         name: "SORSOGON",
         regionId: "05",
-        regionName: "REGION V",
+        regionName: "BICOL REGION",
         municipalities: [
           Municipality(
             id: "BARCELONA",
@@ -22663,13 +22663,13 @@ const philippineRegions = const [
   ),
   Region(
     id: "06",
-    regionName: "REGION VI",
+    regionName: "WESTERN VISAYAS",
     provinces: [
       Province(
         id: "AKLAN",
         name: "AKLAN",
         regionId: "06",
-        regionName: "REGION VI",
+        regionName: "WESTERN VISAYAS",
         municipalities: [
           Municipality(
             id: "ALTAVAS",
@@ -23123,7 +23123,7 @@ const philippineRegions = const [
         id: "ANTIQUE",
         name: "ANTIQUE",
         regionId: "06",
-        regionName: "REGION VI",
+        regionName: "WESTERN VISAYAS",
         municipalities: [
           Municipality(
             id: "ANINI-Y",
@@ -23847,7 +23847,7 @@ const philippineRegions = const [
         id: "CAPIZ",
         name: "CAPIZ",
         regionId: "06",
-        regionName: "REGION VI",
+        regionName: "WESTERN VISAYAS",
         municipalities: [
           Municipality(
             id: "CUARTERO",
@@ -24447,7 +24447,7 @@ const philippineRegions = const [
         id: "GUIMARAS",
         name: "GUIMARAS",
         regionId: "06",
-        regionName: "REGION VI",
+        regionName: "WESTERN VISAYAS",
         municipalities: [
           Municipality(
             id: "BUENAVISTA",
@@ -24588,7 +24588,7 @@ const philippineRegions = const [
         id: "ILOILO",
         name: "ILOILO",
         regionId: "06",
-        regionName: "REGION VI",
+        regionName: "WESTERN VISAYAS",
         municipalities: [
           Municipality(
             id: "AJUY",
@@ -26805,7 +26805,7 @@ const philippineRegions = const [
         id: "NEGROS OCCIDENTAL",
         name: "NEGROS OCCIDENTAL",
         regionId: "06",
-        regionName: "REGION VI",
+        regionName: "WESTERN VISAYAS",
         municipalities: [
           Municipality(
             id: "BACOLOD CITY",
@@ -27699,13 +27699,13 @@ const philippineRegions = const [
   ),
   Region(
     id: "07",
-    regionName: "REGION VII",
+    regionName: "CENTRAL VISAYAS",
     provinces: [
       Province(
         id: "BOHOL",
         name: "BOHOL",
         regionId: "07",
-        regionName: "REGION VII",
+        regionName: "CENTRAL VISAYAS",
         municipalities: [
           Municipality(
             id: "ALBURQUERQUE",
@@ -29158,7 +29158,7 @@ const philippineRegions = const [
         id: "CEBU",
         name: "CEBU",
         regionId: "07",
-        regionName: "REGION VII",
+        regionName: "CENTRAL VISAYAS",
         municipalities: [
           Municipality(
             id: "ALCANTARA",
@@ -30740,7 +30740,7 @@ const philippineRegions = const [
         id: "NEGROS ORIENTAL",
         name: "NEGROS ORIENTAL",
         regionId: "07",
-        regionName: "REGION VII",
+        regionName: "CENTRAL VISAYAS",
         municipalities: [
           Municipality(
             id: "AMLAN (AYUQUITAN)",
@@ -31480,7 +31480,7 @@ const philippineRegions = const [
         id: "SIQUIJOR",
         name: "SIQUIJOR",
         regionId: "07",
-        regionName: "REGION VII",
+        regionName: "CENTRAL VISAYAS",
         municipalities: [
           Municipality(
             id: "ENRIQUE VILLANUEVA",
@@ -31664,13 +31664,13 @@ const philippineRegions = const [
   ),
   Region(
     id: "08",
-    regionName: "REGION VIII",
+    regionName: "EASTERN VISAYAS",
     provinces: [
       Province(
         id: "BILIRAN",
         name: "BILIRAN",
         regionId: "08",
-        regionName: "REGION VIII",
+        regionName: "EASTERN VISAYAS",
         municipalities: [
           Municipality(
             id: "ALMERIA",
@@ -31866,7 +31866,7 @@ const philippineRegions = const [
         id: "EASTERN SAMAR",
         name: "EASTERN SAMAR",
         regionId: "08",
-        regionName: "REGION VIII",
+        regionName: "EASTERN VISAYAS",
         municipalities: [
           Municipality(
             id: "ARTECHE",
@@ -32632,7 +32632,7 @@ const philippineRegions = const [
         id: "LEYTE",
         name: "LEYTE",
         regionId: "08",
-        regionName: "REGION VIII",
+        regionName: "EASTERN VISAYAS",
         municipalities: [
           Municipality(
             id: "ABUYOG",
@@ -34582,7 +34582,7 @@ const philippineRegions = const [
         id: "NORTHERN SAMAR",
         name: "NORTHERN SAMAR",
         regionId: "08",
-        regionName: "REGION VIII",
+        regionName: "EASTERN VISAYAS",
         municipalities: [
           Municipality(
             id: "ALLEN",
@@ -35327,7 +35327,7 @@ const philippineRegions = const [
         id: "SAMAR (WESTERN SAMAR)",
         name: "SAMAR (WESTERN SAMAR)",
         regionId: "08",
-        regionName: "REGION VIII",
+        regionName: "EASTERN VISAYAS",
         municipalities: [
           Municipality(
             id: "ALMAGRO",
@@ -36468,7 +36468,7 @@ const philippineRegions = const [
         id: "SOUTHERN LEYTE",
         name: "SOUTHERN LEYTE",
         regionId: "08",
-        regionName: "REGION VIII",
+        regionName: "EASTERN VISAYAS",
         municipalities: [
           Municipality(
             id: "ANAHAWAN",
@@ -37109,13 +37109,13 @@ const philippineRegions = const [
   ),
   Region(
     id: "09",
-    regionName: "REGION IX",
+    regionName: "ZAMBOANGA PENINSULA",
     provinces: [
       Province(
         id: "ZAMBOANGA DEL NORTE",
         name: "ZAMBOANGA DEL NORTE",
         regionId: "09",
-        regionName: "REGION IX",
+        regionName: "ZAMBOANGA PENINSULA",
         municipalities: [
           Municipality(
             id: "BACUNGAN (LEON T. POSTIGO)",
@@ -38003,7 +38003,7 @@ const philippineRegions = const [
         id: "ZAMBOANGA DEL SUR",
         name: "ZAMBOANGA DEL SUR",
         regionId: "09",
-        regionName: "REGION IX",
+        regionName: "ZAMBOANGA PENINSULA",
         municipalities: [
           Municipality(
             id: "AURORA",
@@ -38986,7 +38986,7 @@ const philippineRegions = const [
         id: "ZAMBOANGA SIBUGAY",
         name: "ZAMBOANGA SIBUGAY",
         regionId: "09",
-        regionName: "REGION IX",
+        regionName: "ZAMBOANGA PENINSULA",
         municipalities: [
           Municipality(
             id: "ALICIA",
@@ -39501,7 +39501,7 @@ const philippineRegions = const [
         id: "BUKIDNON",
         name: "BUKIDNON",
         regionId: "10",
-        regionName: "REGION X",
+        regionName: "NORTHERN MINDANAO",
         municipalities: [
           Municipality(
             id: "BAUNGON",
@@ -40127,7 +40127,7 @@ const philippineRegions = const [
         id: "CAMIGUIN",
         name: "CAMIGUIN",
         regionId: "10",
-        regionName: "REGION X",
+        regionName: "NORTHERN MINDANAO",
         municipalities: [
           Municipality(
             id: "CATARMAN",
@@ -40228,7 +40228,7 @@ const philippineRegions = const [
         id: "LANAO DEL NORTE",
         name: "LANAO DEL NORTE",
         regionId: "10",
-        regionName: "REGION X",
+        regionName: "NORTHERN MINDANAO",
         municipalities: [
           Municipality(
             id: "BACOLOD",
@@ -40903,7 +40903,7 @@ const philippineRegions = const [
         id: "MISAMIS OCCIDENTAL",
         name: "MISAMIS OCCIDENTAL",
         regionId: "10",
-        regionName: "REGION X",
+        regionName: "NORTHERN MINDANAO",
         municipalities: [
           Municipality(
             id: "ALORAN",
@@ -41520,7 +41520,7 @@ const philippineRegions = const [
         id: "MISAMIS ORIENTAL",
         name: "MISAMIS ORIENTAL",
         regionId: "10",
-        regionName: "REGION X",
+        regionName: "NORTHERN MINDANAO",
         municipalities: [
           Municipality(
             id: "ALUBIJID",
@@ -42214,13 +42214,13 @@ const philippineRegions = const [
   ),
   Region(
     id: "11",
-    regionName: "REGION XI",
+    regionName: "DAVAO REGION",
     provinces: [
       Province(
         id: "COMPOSTELA VALLEY",
         name: "COMPOSTELA VALLEY",
         regionId: "11",
-        regionName: "REGION XI",
+        regionName: "DAVAO REGION",
         municipalities: [
           Municipality(
             id: "COMPOSTELA",
@@ -42542,7 +42542,7 @@ const philippineRegions = const [
         id: "DAVAO (DAVAO DEL NORTE)",
         name: "DAVAO (DAVAO DEL NORTE)",
         regionId: "11",
-        regionName: "REGION XI",
+        regionName: "DAVAO REGION",
         municipalities: [
           Municipality(
             id: "ASUNCION (SAUG)",
@@ -42850,7 +42850,7 @@ const philippineRegions = const [
         id: "DAVAO DEL SUR",
         name: "DAVAO DEL SUR",
         regionId: "11",
-        regionName: "REGION XI",
+        regionName: "DAVAO REGION",
         municipalities: [
           Municipality(
             id: "BANSALAN",
@@ -43349,7 +43349,7 @@ const philippineRegions = const [
         id: "DAVAO OCCIDENTAL",
         name: "DAVAO OCCIDENTAL",
         regionId: "11",
-        regionName: "REGION XI",
+        regionName: "DAVAO REGION",
         municipalities: [
           Municipality(
             id: "DON MARCELINO",
@@ -43497,7 +43497,7 @@ const philippineRegions = const [
         id: "DAVAO ORIENTAL",
         name: "DAVAO ORIENTAL",
         regionId: "11",
-        regionName: "REGION XI",
+        regionName: "DAVAO REGION",
         municipalities: [
           Municipality(
             id: "BAGANGA",
@@ -43765,13 +43765,13 @@ const philippineRegions = const [
   ),
   Region(
     id: "12",
-    regionName: "REGION XII",
+    regionName: "SOCCSKSARGEN",
     provinces: [
       Province(
         id: "COTABATO (NORTH COT.)",
         name: "COTABATO (NORTH COT.)",
         regionId: "12",
-        regionName: "REGION XII",
+        regionName: "SOCCSKSARGEN",
         municipalities: [
           Municipality(
             id: "ALAMADA",
@@ -44448,7 +44448,7 @@ const philippineRegions = const [
         id: "SARANGANI",
         name: "SARANGANI",
         regionId: "12",
-        regionName: "REGION XII",
+        regionName: "SOCCSKSARGEN",
         municipalities: [
           Municipality(
             id: "ALABEL",
@@ -44646,7 +44646,7 @@ const philippineRegions = const [
         id: "SOUTH COTABATO",
         name: "SOUTH COTABATO",
         regionId: "12",
-        regionName: "REGION XII",
+        regionName: "SOCCSKSARGEN",
         municipalities: [
           Municipality(
             id: "BANGA",
@@ -44963,7 +44963,7 @@ const philippineRegions = const [
         id: "SULTAN KUDARAT",
         name: "SULTAN KUDARAT",
         regionId: "12",
-        regionName: "REGION XII",
+        regionName: "SOCCSKSARGEN",
         municipalities: [
           Municipality(
             id: "BAGUMBAYAN",
@@ -45304,13 +45304,13 @@ const philippineRegions = const [
   ),
   Region(
     id: "13",
-    regionName: "REGION XIII",
+    regionName: "CARAGA",
     provinces: [
       Province(
         id: "AGUSAN DEL NORTE",
         name: "AGUSAN DEL NORTE",
         regionId: "13",
-        regionName: "REGION XIII",
+        regionName: "CARAGA",
         municipalities: [
           Municipality(
             id: "BUENAVISTA",
@@ -45655,7 +45655,7 @@ const philippineRegions = const [
         id: "AGUSAN DEL SUR",
         name: "AGUSAN DEL SUR",
         regionId: "13",
-        regionName: "REGION XIII",
+        regionName: "CARAGA",
         municipalities: [
           Municipality(
             id: "BAYUGAN CITY",
@@ -46075,7 +46075,7 @@ const philippineRegions = const [
         id: "DINAGAT ISLANDS",
         name: "DINAGAT ISLANDS",
         regionId: "13",
-        regionName: "REGION XIII",
+        regionName: "CARAGA",
         municipalities: [
           Municipality(
             id: "BASILISA (RIZAL)",
@@ -46232,7 +46232,7 @@ const philippineRegions = const [
         id: "SURIGAO DEL NORTE",
         name: "SURIGAO DEL NORTE",
         regionId: "13",
-        regionName: "REGION XIII",
+        regionName: "CARAGA",
         municipalities: [
           Municipality(
             id: "ALEGRIA",
@@ -46722,7 +46722,7 @@ const philippineRegions = const [
         id: "SURIGAO DEL SUR",
         name: "SURIGAO DEL SUR",
         regionId: "13",
-        regionName: "REGION XIII",
+        regionName: "CARAGA",
         municipalities: [
           Municipality(
             id: "BAROBO",
